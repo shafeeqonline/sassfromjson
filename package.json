@@ -1,0 +1,21 @@
+{
+  "name": "sassfromjson-loader",
+  "version": "0.1",
+  "author": {
+    "name": "Shafeeq Ur Rahman @shafeeqonline"
+  },
+  "description": "SASS from JSON loader module for webpack",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "loader-utils": "~0.2.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shafeeqonline/sassfromjson.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shafeeqonline/sassfromjson.git/issues"
+  }
+}
